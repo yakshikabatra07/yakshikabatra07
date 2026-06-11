@@ -1,4 +1,4 @@
-# Hii 👋 I'm abc
+# Hii 👋 I'm yakshika batra
 
 ## 👩‍💻 About Me
 - 🎓  Computer Science & Engineering  
