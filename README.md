@@ -9,9 +9,9 @@
 ---
 
 ## 🌐 Socials:
-[![LinkedIn]V  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/20Ana)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/ankita714)
+[![LinkedIn](https://www.linkedin.com/in/yakshika-batra-348921387?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+[![GitHub](https://github.com/yakshikabatra07/yakshikabatra07)
+
 
 ---
 
@@ -29,7 +29,8 @@
 ---
 
 ## 📂 Projects & Repositories:
-- 🔐 **
+- 🔐( **https://github.com/yakshikabatra07/student-portfolio-website)
+- (https://github.com/yakshikabatra07/taskmanager)
 
  ### Research Papers:
 - 📄 [Exploration of 
